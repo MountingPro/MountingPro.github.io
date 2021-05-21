@@ -85,7 +85,7 @@ h3 {
 
 
 .offer-cont__title {
-	font-size: 60px;
+	font-size: 40px;
 	letter-spacing: -0.01em;
 	line-height: 1.2em;
 }
@@ -132,7 +132,7 @@ h3 {
 }
 
 .problems {
-	padding-top: 137px;
+	padding-top: 90px;
 }
 
 .about {
@@ -164,7 +164,7 @@ h3 {
 }
 
 .services {
-	padding-top: 142px;
+	padding-top: 90px;
 }
 
 .section-title__label {
@@ -253,7 +253,7 @@ h3 {
 }
 
 .result {
-	padding-top: 219px;
+	padding-top: 100px;
 }
 
 .easy {
@@ -296,7 +296,7 @@ h3 {
 }
 
 .works {
-	padding-top: 283px;
+	padding-top: 100px;
 }
 
 .work-tabs {
@@ -363,7 +363,7 @@ transform: scale(1.1);
 }
 
 .testimonials {
-	padding-top: 248px;
+	padding-top: 110px;
 }
 
 .contributor {
@@ -396,7 +396,7 @@ transform: scale(1.1);
 
 
 .clients {
-	padding-top: 278px;
+	padding-top: 130px;
 }
 
 .clients-row {
@@ -406,7 +406,7 @@ transform: scale(1.1);
 .footer {
 	height: 240px;
 	background: #515151;
-	margin-top: 136px;
+	margin-top: 122px;
 }
 
 .link{ 
